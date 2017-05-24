@@ -34,11 +34,14 @@ app.get('/', (req, res) => {
 Once you are able to serve the React application locally then you will next host the application on Heroku.
 
 [x] Create an account on Heroku.  Use GitHub to sign up so that Heroku can access your GitHub repos.
-Once you create an account specify that Node.js is the primary language you'll be using and specify the server region closest to you.
+
+[x] Once you create an account specify that Node.js is the primary language you'll be using and specify the server region closest to you.
+
 [x] Create a GitHub repo for your local server directory.  Push your code up.
     => https://github.com/beansprout/heroku-react-app
 
-Create a new Heroku Node application and link it with your GitHub repo for your server.
+[x] Create a new Heroku Node application and link it with your GitHub repo for your server.
+
 [x] Go to the specified URL and test that it properly serves up the client application.
     => https://desolate-stream-96068.herokuapp.com/
 
